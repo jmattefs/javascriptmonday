@@ -32,11 +32,11 @@ earnings40B = wageB * 40;
 
 if (hoursA > 40){
     console.log("totalearningsA=", totalearningsA);
-}else {
+} else {
 	console.log("earningsA=", earningsA);
 }
 if (hoursB > 40){
     console.log("totalearningsB=", totalearningsB);	
-}else{
+} else{
     console.log("earningsB=", earningsB);	
 }
